@@ -193,7 +193,7 @@ export default function VideoPlayer() {
         ref={videoRef}
         playsInline
         preload="metadata"
-        src="https://github.com/natodevelopers/minionsfilm/releases/download/minionsfilm/output.mp4"
+        src="https://github.com/natodevelopers/despicableme3/releases/download/despicableme3/despicableme3.mp4"
       />
     </div>
   );
